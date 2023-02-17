@@ -1,0 +1,415 @@
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\TuyenDungCNTT.dll.config
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\TuyenDungCNTT.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\TuyenDungCNTT.pdb
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\csc.exe
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\csc.exe.config
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\csc.rsp
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\csi.exe
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\csi.exe.config
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\csi.rsp
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.AppContext.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Collections.Immutable.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Console.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Globalization.Calendars.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.IO.Compression.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.IO.FileSystem.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Net.Http.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Net.Sockets.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.ValueTuple.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Xml.XPath.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\vbc.exe
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\vbc.exe.config
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\vbc.rsp
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\VBCSCompiler.exe
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\roslyn\VBCSCompiler.exe.config
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\Antlr3.Runtime.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\Microsoft.Web.Infrastructure.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\Newtonsoft.Json.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\System.Web.Helpers.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\System.Web.Mvc.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\System.Web.Optimization.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\System.Web.Razor.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\System.Web.WebPages.Deployment.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\System.Web.WebPages.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\System.Web.WebPages.Razor.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\WebGrease.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\System.Web.Helpers.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\System.Web.Mvc.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\System.Web.Optimization.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\System.Web.Razor.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\System.Web.WebPages.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\System.Web.WebPages.Deployment.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\System.Web.WebPages.Razor.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\Newtonsoft.Json.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\Antlr3.Runtime.pdb
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.csproj.AssemblyReference.cache
+D:\Web\ASP.NET MVC\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.csproj.CoreCompileInputs.cache
+D:\Web\ASP.NET MVC\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.csproj.CopyComplete
+D:\Web\ASP.NET MVC\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.pdb
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\EntityFramework.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\EntityFramework.SqlServer.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\EntityFramework.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\bin\EntityFramework.SqlServer.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\TuyenDungCNTT.dll.config
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\TuyenDungCNTT.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\TuyenDungCNTT.pdb
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csc.exe
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csc.exe.config
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csc.rsp
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csi.exe
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csi.exe.config
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csi.rsp
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.AppContext.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Collections.Immutable.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Console.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Globalization.Calendars.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.Compression.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.FileSystem.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Net.Http.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Net.Sockets.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.ValueTuple.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.XPath.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\vbc.exe
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\vbc.exe.config
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\vbc.rsp
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\VBCSCompiler.exe
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\VBCSCompiler.exe.config
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\Antlr3.Runtime.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.SqlServer.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\Microsoft.Web.Infrastructure.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\Newtonsoft.Json.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Helpers.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Mvc.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Optimization.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Razor.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Deployment.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Razor.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\WebGrease.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.SqlServer.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Helpers.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Mvc.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Optimization.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Razor.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Deployment.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Razor.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\Newtonsoft.Json.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\Antlr3.Runtime.pdb
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.csproj.CoreCompileInputs.cache
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.csproj.CopyComplete
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.dll
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.pdb
+D:\Web\ASP.NET MVC\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.csproj.AssemblyReference.cache
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\TuyenDungCNTT.dll.config
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\TuyenDungCNTT.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\TuyenDungCNTT.pdb
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csc.exe
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csc.exe.config
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csc.rsp
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csi.exe
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csi.exe.config
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csi.rsp
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.AppContext.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Console.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Globalization.Calendars.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.Compression.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Net.Http.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Net.Sockets.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.ValueTuple.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.XPath.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\vbc.exe
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\vbc.exe.config
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\vbc.rsp
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\VBCSCompiler.exe
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\Antlr3.Runtime.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.SqlServer.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\Microsoft.Web.Infrastructure.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\Newtonsoft.Json.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Helpers.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Mvc.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Optimization.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Razor.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Deployment.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Razor.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\WebGrease.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.xml
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.SqlServer.xml
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Helpers.xml
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Mvc.xml
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Optimization.xml
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Razor.xml
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.xml
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Deployment.xml
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Razor.xml
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\Newtonsoft.Json.xml
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\Antlr3.Runtime.pdb
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.csproj.AssemblyReference.cache
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.csproj.CoreCompileInputs.cache
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.csproj.CopyComplete
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.dll
+D:\Đồ Án\Code\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.pdb
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\TuyenDungCNTT.dll.config
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\TuyenDungCNTT.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\TuyenDungCNTT.pdb
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csc.exe
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csc.exe.config
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csc.rsp
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csi.exe
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csi.exe.config
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csi.rsp
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.AppContext.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Collections.Immutable.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Console.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Globalization.Calendars.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.Compression.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.FileSystem.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Net.Http.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Net.Sockets.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Reflection.Metadata.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.ValueTuple.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.XPath.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\vbc.exe
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\vbc.exe.config
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\vbc.rsp
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\VBCSCompiler.exe
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\VBCSCompiler.exe.config
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\Antlr3.Runtime.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.SqlServer.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\Microsoft.Web.Infrastructure.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\Newtonsoft.Json.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Helpers.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Mvc.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Optimization.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Razor.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Deployment.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Razor.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\WebGrease.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.xml
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.SqlServer.xml
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Helpers.xml
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Mvc.xml
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Optimization.xml
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Razor.xml
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.xml
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Deployment.xml
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Razor.xml
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\Newtonsoft.Json.xml
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\Antlr3.Runtime.pdb
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.csproj.AssemblyReference.cache
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.csproj.CoreCompileInputs.cache
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.csproj.CopyComplete
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.dll
+D:\QLVL\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.pdb
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\TuyenDungCNTT.dll.config
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\TuyenDungCNTT.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\TuyenDungCNTT.pdb
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csc.exe
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csc.exe.config
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csc.rsp
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csi.exe
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csi.exe.config
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\csi.rsp
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.AppContext.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Collections.Immutable.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Console.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Globalization.Calendars.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.Compression.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.FileSystem.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Net.Http.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Net.Sockets.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Reflection.Metadata.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.ValueTuple.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.XPath.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\vbc.exe
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\vbc.exe.config
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\vbc.rsp
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\VBCSCompiler.exe
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\roslyn\VBCSCompiler.exe.config
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\Antlr3.Runtime.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.SqlServer.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\Microsoft.Web.Infrastructure.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\Newtonsoft.Json.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Helpers.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Mvc.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Optimization.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Razor.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Deployment.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Razor.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\WebGrease.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.xml
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\EntityFramework.SqlServer.xml
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Helpers.xml
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Mvc.xml
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Optimization.xml
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.Razor.xml
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.xml
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Deployment.xml
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\System.Web.WebPages.Razor.xml
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\Newtonsoft.Json.xml
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\Antlr3.Runtime.pdb
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.csproj.AssemblyReference.cache
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.csproj.CoreCompileInputs.cache
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.csproj.CopyComplete
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.dll
+D:\Document\Học\Project 3\Main\TuyenDungCNTT\TuyenDungCNTT\obj\Debug\TuyenDungCNTT.pdb
