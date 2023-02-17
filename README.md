@@ -1,2 +1,2 @@
 # TuyenDungCNTT
-Project 3
+Phát triển phần mềm phân tán
